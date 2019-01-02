@@ -1,1 +1,1 @@
-other_name = 'other_name'
+name = 'other_name'
